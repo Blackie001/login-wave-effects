@@ -20,17 +20,13 @@ A clean, responsive, and modern login/authentication page built with HTML, CSS (
 
 ## 📸 Screenshots
 
+<img width="491" height="473" alt="image" src="https://github.com/user-attachments/assets/16199cf9-8016-49ee-9e0f-47ed94b5971c" />
+img src="<img width="474" height="476" alt="image" src="https://github.com/user-attachments/assets/fe33ac4d-cd05-4669-9046-52688c2e90a0" />
 
-<table>
-  <tr>
-    <td><img src="screenshots/light-mode.png" alt="Light mode" width="400"/></td>
-    <td><img src="screenshots/dark-mode.png" alt="Dark mode" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/mobile-view.png" alt="Mobile view" width="400"/></td>
-    <td><img src="screenshots/error-state.png" alt="Error state" width="400"/></td>
-  </tr>
-</table>
+In error state
+<img width="457" height="279" alt="image" src="https://github.com/user-attachments/assets/1687c85d-ec74-45f3-8aaf-f98f95fcb0f5" />
+
+
 
 ## 🛠️ Technologies Used
 
